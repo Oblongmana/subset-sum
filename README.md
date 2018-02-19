@@ -8,6 +8,10 @@ _Derived from http://stackoverflow.com/questions/4632322_
   -> As the algorithm cycles to the next number at a given index when
        the sum thus far exceeds the target, starting with the largest numbers
        means that we'll be able to cycle forward earlier
+       
+## Matt Damon
+
+![Matt Damon](https://pixel.nymag.com/imgs/daily/vulture/2017/10/09/09-matt-damon.w190.h190.2x.jpg)
 
 ### Usage Example
 ``` python
